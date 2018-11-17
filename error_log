@@ -1,0 +1,160 @@
+[27-Jun-2016 16:00:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllNew() on a non-object in /home/salatour/public_html/application/views/default/include/slide_bottom.php on line 8
+[27-Jun-2016 16:00:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllNew() on a non-object in /home/salatour/public_html/application/views/default/include/slide_bottom.php on line 8
+[27-Jun-2016 19:16:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:17:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:17:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:17:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:17:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:17:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:17:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 161
+[27-Jun-2016 19:19:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getConfigurationInfoCode() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 156
+[27-Jun-2016 19:27:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getProductsSlug() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 152
+[27-Jun-2016 19:29:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getProductsSlug() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 152
+[27-Jun-2016 19:31:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getProductsSlug() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 152
+[27-Jun-2016 19:34:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getProductsSlug() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 152
+[27-Jun-2016 19:35:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getProductsSlug1() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 152
+[27-Jun-2016 19:55:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare News_Model::getNewInfo() in /home/salatour/public_html/application/models/news_model.php on line 44
+[28-Jun-2016 08:38:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected $end in /home/salatour/public_html/application/views/default/home.php on line 317
+[28-Jun-2016 08:59:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_INC in /home/salatour/public_html/application/views/default/home.php on line 303
+[28-Jun-2016 09:42:00 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected $end in /home/salatour/public_html/application/views/default/home.php on line 170
+[28-Jun-2016 10:09:03 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected $end in /home/salatour/public_html/application/views/default/home.php on line 182
+[28-Jun-2016 10:47:12 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:47:24 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:47:37 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:47:43 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:47:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:47:50 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:47:57 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 10:53:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_limit_cat() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:53:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_limit_cat() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:54:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_limit_cat() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:55:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_cats() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:55:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_cats() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:55:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_cats() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:56:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:56:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 153
+[28-Jun-2016 10:59:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 11:00:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 11:00:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/news.php on line 154
+[28-Jun-2016 11:18:42 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:18:43 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:18:53 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:10 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:20 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:25 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:30 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:46 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:51 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_STRING in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 11:19:51 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_STRING in /home/salatour/public_html/application/models/news_model.php on line 70
+[28-Jun-2016 14:14:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')' in /home/salatour/public_html/application/controllers/news.php on line 160
+[28-Jun-2016 14:14:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')' in /home/salatour/public_html/application/controllers/news.php on line 160
+[28-Jun-2016 14:14:20 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')' in /home/salatour/public_html/application/controllers/news.php on line 160
+[28-Jun-2016 14:16:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Class 'News_model' not found in /home/salatour/public_html/system/core/Loader.php on line 303
+[28-Jun-2016 15:24:41 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home/salatour/public_html/application/views/default/news/news_category.php on line 8
+[28-Jun-2016 15:25:29 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ECHO in /home/salatour/public_html/application/views/default/news/news_category.php on line 3
+[28-Jun-2016 15:44:30 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '%' in /home/salatour/public_html/application/views/default/include/slide_bottom.php on line 88
+[29-Jun-2016 09:14:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/salatour/public_html/application/views/default/include/slide_bottom.php on line 124
+[29-Jun-2016 11:08:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function insert() on a non-object in /home/salatour/public_html/application/controllers/admin/page.php on line 154
+[29-Jun-2016 11:08:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function insert() on a non-object in /home/salatour/public_html/application/controllers/admin/page.php on line 154
+[29-Jun-2016 14:37:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 46
+[29-Jun-2016 14:38:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 46
+[29-Jun-2016 14:41:40 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/config/routes.php on line 50
+[29-Jun-2016 14:41:54 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/salatour/public_html/application/config/routes.php on line 50
+[30-Jun-2016 09:15:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 84
+[30-Jun-2016 09:18:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 84
+[30-Jun-2016 09:19:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 84
+[30-Jun-2016 10:04:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use [] for reading in /home/salatour/public_html/application/views/default/include/menu.php on line 108
+[30-Jun-2016 11:26:04 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' or '{' in /home/salatour/public_html/application/controllers/menu.php on line 75
+[30-Jun-2016 11:26:10 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' or '{' in /home/salatour/public_html/application/controllers/menu.php on line 75
+[30-Jun-2016 11:26:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' or '{' in /home/salatour/public_html/application/controllers/menu.php on line 75
+[30-Jun-2016 13:37:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:37:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:43:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:44:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:44:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:44:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:45:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 44
+[30-Jun-2016 13:46:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 44
+[30-Jun-2016 13:46:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 44
+[30-Jun-2016 13:47:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use [] for reading in /home/salatour/public_html/application/controllers/menu.php on line 46
+[30-Jun-2016 13:47:33 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/salatour/public_html/application/controllers/menu.php on line 46
+[30-Jun-2016 13:47:39 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/salatour/public_html/application/controllers/menu.php on line 46
+[30-Jun-2016 13:49:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/salatour/public_html/application/controllers/menu.php on line 42
+[30-Jun-2016 13:52:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use [] for reading in /home/salatour/public_html/application/controllers/menu.php on line 45
+[30-Jun-2016 14:37:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[30-Jun-2016 14:37:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[30-Jun-2016 14:38:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[30-Jun-2016 14:38:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[30-Jun-2016 14:38:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[30-Jun-2016 14:38:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[30-Jun-2016 14:41:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Menu::detail() in /home/salatour/public_html/application/controllers/menu.php on line 112
+[05-Jul-2016 10:25:55 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/salatour/public_html/application/views/default/include/header.php on line 93
+[05-Jul-2016 10:25:57 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/salatour/public_html/application/views/default/include/header.php on line 93
+[18-Jul-2016 14:47:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home/salatour/public_html/application/models/product_model.php on line 70
+[18-Jul-2016 16:12:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function search() on a non-object in /home/salatour/public_html/application/controllers/home.php on line 52
+[18-Jul-2016 16:14:25 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/salatour/public_html/application/views/default/result_view.php on line 4
+[18-Jul-2016 16:32:07 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected $end in /home/salatour/public_html/application/views/default/result_view.php on line 214
+[31-Aug-2016 10:18:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/include/menu.php on line 96
+[31-Aug-2016 10:29:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/salatour/public_html/application/views/default/include/menu.php on line 94
+[31-Aug-2016 10:33:26 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '[' in /home/salatour/public_html/application/views/default/include/menu.php on line 36
+[31-Aug-2016 10:34:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/left.php on line 13
+[31-Aug-2016 10:35:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/left.php on line 13
+[31-Aug-2016 10:35:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/left.php on line 13
+[31-Aug-2016 10:35:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/left.php on line 13
+[31-Aug-2016 10:35:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/left.php on line 13
+[31-Aug-2016 10:38:19 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ']' in /home/salatour/public_html/application/controllers/home.php on line 30
+[31-Aug-2016 10:41:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/include/menu.php on line 37
+[31-Aug-2016 10:49:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/left.php on line 13
+[31-Aug-2016 10:54:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/salatour/public_html/application/controllers/home.php on line 31
+[31-Aug-2016 10:54:37 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/salatour/public_html/application/controllers/home.php on line 31
+[31-Aug-2016 10:55:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use [] for reading in /home/salatour/public_html/application/controllers/home.php on line 31
+[31-Aug-2016 11:09:35 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/salatour/public_html/application/views/default/include/menu.php on line 7
+[31-Aug-2016 11:09:49 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/salatour/public_html/application/views/default/include/menu.php on line 7
+[31-Aug-2016 11:09:56 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/salatour/public_html/application/views/default/include/menu.php on line 7
+[31-Aug-2016 11:10:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/salatour/public_html/application/views/default/include/menu.php on line 7
+[01-Sep-2016 15:44:54 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/salatour/public_html/application/views/default/include/header.php on line 99
+[01-Sep-2016 15:46:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot access empty property in /home/salatour/public_html/application/views/default/include/header.php on line 98
+[01-Sep-2016 15:49:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllProductsCategories() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 6
+[01-Sep-2016 15:49:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllProductsCategories() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 6
+[01-Sep-2016 15:50:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllProductsCategories() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 6
+[01-Sep-2016 15:51:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllProductsCategories() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 6
+[01-Sep-2016 15:51:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllProductsCategories() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 6
+[01-Sep-2016 15:52:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllProductsCategories() on a non-object in /home/salatour/public_html/application/views/default/include/menu.php on line 6
+[01-Sep-2016 15:52:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_all_items_limit_cat() on a non-object in /home/salatour/public_html/application/views/default/include/slide_bottom.php on line 7
+[01-Sep-2016 16:20:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function helper() on a non-object in /home/salatour/public_html/application/views/default/products/product_category.php on line 3
+[05-Sep-2016 08:35:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/salatour/public_html/application/views/default/include/header.php on line 87
+[05-Sep-2016 10:37:56 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/home.php on line 375
+[05-Sep-2016 11:11:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/salatour/public_html/application/views/default/products/product_category.php on line 11
+[05-Sep-2016 11:12:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/salatour/public_html/application/views/default/products/product_category.php on line 11
+[05-Sep-2016 14:34:48 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/salatour/public_html/application/views/default/home.php on line 171
+[05-Sep-2016 15:34:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/menu.php on line 126
+[05-Sep-2016 15:35:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/include/menu.php on line 126
+[10-Sep-2016 09:56:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Home::cur_lang() in /home/salatour/public_html/application/views/default/template.php on line 97
+[13-Sep-2016 09:17:55 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/salatour/public_html/application/views/default/home.php on line 375
+[22-Sep-2016 09:10:27 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/salatour/public_html/application/views/default/home.php on line 159
+[23-Sep-2016 16:17:36 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/salatour/public_html/application/views/default/products/product_category.php on line 28
+[23-Sep-2016 16:17:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/salatour/public_html/application/views/default/products/product_category.php on line 28
+[23-Sep-2016 16:22:50 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/products/product_category.php on line 82
+[23-Sep-2016 16:23:24 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/products/product_category.php on line 83
+[23-Sep-2016 16:23:55 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/products/product_category.php on line 83
+[23-Sep-2016 16:24:14 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected T_ELSE in /home/salatour/public_html/application/views/default/products/product_category.php on line 83
+[26-Sep-2016 10:58:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/home.php on line 183
+[26-Sep-2016 11:04:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Product_model::getCategoryChild() in /home/salatour/public_html/application/views/default/home.php on line 184
+[26-Sep-2016 11:05:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/salatour/public_html/application/views/default/home.php on line 184
+[08-Dec-2016 15:22:26 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/salatour/public_html/application/views/default/include/header.php on line 70
+[12-Dec-2016 15:34:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getAllNew_KN() on a non-object in /home/salatour/public_html/application/views/default/home.php on line 344
+[29-Dec-2016 22:11:49] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:11:55] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:12:37] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:13:00] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:13:52] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:14:35] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:14:36] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:14:37] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:14:57] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:14:58] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:15:02] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 8
+[29-Dec-2016 22:16:53] PHP Fatal error:  Call to a member function get_items_alias() on a non-object in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 25
+[29-Dec-2016 22:17:09] PHP Fatal error:  Call to a member function get_items_info() on a non-object in /home/firerox/public_html/demo/dulichthienduong/application/controllers/pages.php on line 37

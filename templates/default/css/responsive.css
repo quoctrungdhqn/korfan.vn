@@ -1,0 +1,73 @@
+/*
+=======================
+***********
+responsive for the site
+***********
+=======================
+*/
+@media (max-width: 1090px) {
+
+}
+@media (max-width: 1045px) {
+
+}
+@media (max-width: 1020px) {
+
+}
+@media (min-width: 1005px) {
+
+}
+@media (max-width: 1004px) {
+
+}
+@media (max-width: 860px) {
+
+}
+@media (max-width: 830px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 700px) {
+
+}
+@media (max-width: 600px) {
+
+} 
+@media (max-width: 520px) {
+
+}
+@media (max-width: 480px) {
+
+}
+@media (max-width: 400px) {
+
+
+}
+
+@media only screen and (min-width: 980px)
+{
+    .right img.news_tour
+    {
+        position: absolute;
+        z-index: 2;
+        width: 100px;
+        height: 100px;
+        top:-10.5px;
+        right: 3.5px;
+    }
+}
+
+@media only screen and (max-width: 980px)
+{
+    .right img.news_tour
+    {
+        display: none;
+    }
+
+    .float_right_ads, .float_left_ads
+    {
+        display: none;
+    }
+}

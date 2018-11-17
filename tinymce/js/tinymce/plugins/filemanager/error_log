@@ -1,0 +1,4 @@
+[17-Mar-2017 08:45:20 Asia/Ho_Chi_Minh] PHP Warning:  scandir(../source/) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/dulichbiendaokyc/public_html/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 515
+[17-Mar-2017 08:45:20 Asia/Ho_Chi_Minh] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/dulichbiendaokyc/public_html/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 515
+[17-Mar-2017 08:45:20 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dulichbiendaokyc/public_html/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 522
+[17-Mar-2017 08:45:20 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/dulichbiendaokyc/public_html/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 979

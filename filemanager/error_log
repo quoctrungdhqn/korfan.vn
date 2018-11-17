@@ -1,0 +1,45 @@
+[26-Aug-2016 07:49:15 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../uploads/news/Am thuc/Hue/che-cung-dinh-hue-3.jpg is missing or invalid' in /home/salatour/public_html/filemanager/include/php_image_magician.php:325
+Stack trace:
+#0 /home/salatour/public_html/filemanager/include/utils.php(55): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/salatour/public_html/filemanager/upload.php(85): create_img('../uploads/news...', '../uploads/thum...', 122, 91)
+#2 {main}
+  thrown in /home/salatour/public_html/filemanager/include/php_image_magician.php on line 325
+[26-Aug-2016 07:51:07 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../uploads/news/Am thuc/Hue/banh_nam_vnd.jpg is missing or invalid' in /home/salatour/public_html/filemanager/include/php_image_magician.php:325
+Stack trace:
+#0 /home/salatour/public_html/filemanager/include/utils.php(55): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/salatour/public_html/filemanager/upload.php(85): create_img('../uploads/news...', '../uploads/thum...', 122, 91)
+#2 {main}
+  thrown in /home/salatour/public_html/filemanager/include/php_image_magician.php on line 325
+[17-Sep-2016 04:24:43 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../uploads/news/quoc te/Hy Lap/Crete/crete-overview-harbour-xlarge.jpg is missing or invalid' in /home/salatour/public_html/filemanager/include/php_image_magician.php:325
+Stack trace:
+#0 /home/salatour/public_html/filemanager/include/utils.php(55): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/salatour/public_html/filemanager/upload.php(85): create_img('../uploads/news...', '../uploads/thum...', 122, 91)
+#2 {main}
+  thrown in /home/salatour/public_html/filemanager/include/php_image_magician.php on line 325
+[09-Nov-2016 03:47:58 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../uploads/news/Canh dep/tong hop/con duong tren the gioi/con duong tho mong/11-3965-1477658371.png is missing or invalid' in /home/salatour/public_html/filemanager/include/php_image_magician.php:325
+Stack trace:
+#0 /home/salatour/public_html/filemanager/include/utils.php(55): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/salatour/public_html/filemanager/upload.php(85): create_img('../uploads/news...', '../uploads/thum...', 122, 91)
+#2 {main}
+  thrown in /home/salatour/public_html/filemanager/include/php_image_magician.php on line 325
+[21-Feb-2017 03:44:28 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/2.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:28 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpFORHWH' to '../uploads/K��� CO/2.jpg' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:28 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
+[21-Feb-2017 03:44:28 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/1.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:28 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpamDkbU' to '../uploads/K��� CO/1.png' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:28 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/4.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpVmGQVa' to '../uploads/K��� CO/4.jpg' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/3.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpu70yc2' to '../uploads/K��� CO/3.jpg' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/huyhoi2711.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpTGgDIl' to '../uploads/K��� CO/huyhoi2711.jpg' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/xiongdsq(2).jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpV08sHF' to '../uploads/K��� CO/xiongdsq(2).jpg' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file(../uploads/K��� CO/luyen_lun(2).jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpdw6wSZ' to '../uploads/K��� CO/luyen_lun(2).jpg' in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 79
+[21-Feb-2017 03:44:31 Europe/Rome] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/dulichbiendaokyc/public_html/filemanager/upload.php on line 80
