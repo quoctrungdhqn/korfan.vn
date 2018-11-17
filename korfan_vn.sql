@@ -1,13 +1,15 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.6
+-- version 4.8.3
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Jul 10, 2018 at 07:21 AM
--- Server version: 5.7.17-log
--- PHP Version: 5.6.30
+-- Generation Time: Nov 17, 2018 at 06:01 AM
+-- Server version: 10.1.36-MariaDB
+-- PHP Version: 7.2.11
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -17,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `inanlenguyen_dbv2`
+-- Database: `korfan.vn`
 --
 
 -- --------------------------------------------------------
@@ -30995,66 +30997,79 @@ ALTER TABLE `cp_users_groups`
 --
 ALTER TABLE `cp_articles`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=390;
+
 --
 -- AUTO_INCREMENT for table `cp_categories`
 --
 ALTER TABLE `cp_categories`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1037;
+
 --
 -- AUTO_INCREMENT for table `cp_configuration`
 --
 ALTER TABLE `cp_configuration`
   MODIFY `id` smallint(3) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1003;
+
 --
 -- AUTO_INCREMENT for table `cp_custom`
 --
 ALTER TABLE `cp_custom`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
+
 --
 -- AUTO_INCREMENT for table `cp_footer`
 --
 ALTER TABLE `cp_footer`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
 --
 -- AUTO_INCREMENT for table `cp_menus`
 --
 ALTER TABLE `cp_menus`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1021;
+
 --
 -- AUTO_INCREMENT for table `cp_menus_type`
 --
 ALTER TABLE `cp_menus_type`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
 --
 -- AUTO_INCREMENT for table `cp_pages`
 --
 ALTER TABLE `cp_pages`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=213;
+
 --
 -- AUTO_INCREMENT for table `cp_products`
 --
 ALTER TABLE `cp_products`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+
 --
 -- AUTO_INCREMENT for table `cp_products_categories`
 --
 ALTER TABLE `cp_products_categories`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1087;
+
 --
 -- AUTO_INCREMENT for table `cp_slide`
 --
 ALTER TABLE `cp_slide`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1074;
+
 --
 -- AUTO_INCREMENT for table `cp_users`
 --
 ALTER TABLE `cp_users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1004;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1001;
+
 --
 -- AUTO_INCREMENT for table `cp_users_groups`
 --
 ALTER TABLE `cp_users_groups`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+
 --
 -- Constraints for dumped tables
 --
@@ -31084,6 +31099,7 @@ ALTER TABLE `cp_products`
 --
 ALTER TABLE `cp_users`
   ADD CONSTRAINT `cp_users_ibfk_1` FOREIGN KEY (`userGroup`) REFERENCES `cp_users_groups` (`id`);
+COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
